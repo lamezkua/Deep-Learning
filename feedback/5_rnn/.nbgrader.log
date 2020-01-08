@@ -1,0 +1,80 @@
+[AssignApp | WARNING] Config option `groupshared` not recognized by `Assign`.
+[AssignApp | WARNING] Removing existing assignment: /course/release/5_rnn
+[AssignApp | INFO] Copying /course/source/./5_rnn/data.py -> /course/release/./5_rnn/data.py
+[AssignApp | INFO] Copying /course/source/./5_rnn/seq2seq.png -> /course/release/./5_rnn/seq2seq.png
+[AssignApp | INFO] Copying /course/source/./5_rnn/seq2seq_decoder.png -> /course/release/./5_rnn/seq2seq_decoder.png
+[AssignApp | INFO] Copying /course/source/./5_rnn/seq2seq_encoder.png -> /course/release/./5_rnn/seq2seq_encoder.png
+[AssignApp | INFO] Copying /course/source/./5_rnn/.nbgrader.log -> /course/release/./5_rnn/.nbgrader.log
+[AssignApp | INFO] Converting notebook /course/source/./5_rnn/51_rnn.ipynb
+[AssignApp | INFO] Writing 39401 bytes to /course/release/./5_rnn/51_rnn.ipynb
+[AssignApp | INFO] Converting notebook /course/source/./5_rnn/52_rnn_batch_training.ipynb
+[AssignApp | INFO] Writing 40773 bytes to /course/release/./5_rnn/52_rnn_batch_training.ipynb
+[AssignApp | INFO] Setting destination file permissions to 664
+[AutogradeApp | WARNING] Config option `groupshared` not recognized by `Autograde`.
+[AutogradeApp | WARNING] Removing existing assignment: /course/autograded/spilsbt1/5_rnn
+[AutogradeApp | INFO] Copying /course/submitted/spilsbt1/5_rnn/data.py -> /course/autograded/spilsbt1/5_rnn/data.py
+[AutogradeApp | INFO] Copying /course/submitted/spilsbt1/5_rnn/seq2seq.png -> /course/autograded/spilsbt1/5_rnn/seq2seq.png
+[AutogradeApp | INFO] Copying /course/submitted/spilsbt1/5_rnn/seq2seq_decoder.png -> /course/autograded/spilsbt1/5_rnn/seq2seq_decoder.png
+[AutogradeApp | INFO] Copying /course/submitted/spilsbt1/5_rnn/seq2seq_encoder.png -> /course/autograded/spilsbt1/5_rnn/seq2seq_encoder.png
+[AutogradeApp | INFO] Copying /course/submitted/spilsbt1/5_rnn/5_decoder_batch.pth -> /course/autograded/spilsbt1/5_rnn/5_decoder_batch.pth
+[AutogradeApp | INFO] Copying /course/submitted/spilsbt1/5_rnn/5_encoder.pth -> /course/autograded/spilsbt1/5_rnn/5_encoder.pth
+[AutogradeApp | INFO] Copying /course/submitted/spilsbt1/5_rnn/5_encoder_batch.pth -> /course/autograded/spilsbt1/5_rnn/5_encoder_batch.pth
+[AutogradeApp | INFO] Copying /course/submitted/spilsbt1/5_rnn/5_decoder.pth -> /course/autograded/spilsbt1/5_rnn/5_decoder.pth
+[AutogradeApp | INFO] Copying /course/submitted/spilsbt1/5_rnn/timestamp.txt -> /course/autograded/spilsbt1/5_rnn/timestamp.txt
+[AutogradeApp | INFO] Creating/updating student with ID 'spilsbt1': {}
+[AutogradeApp | INFO] SubmittedAssignment<5_rnn for spilsbt1> submitted at 2019-04-01 22:47:50.071305
+[AutogradeApp | INFO] Overwriting files with master versions from the source directory
+[AutogradeApp | INFO] Copying /course/source/./5_rnn/data.py -> /course/autograded/spilsbt1/5_rnn/data.py
+[AutogradeApp | INFO] Copying /course/source/./5_rnn/seq2seq_encoder.png -> /course/autograded/spilsbt1/5_rnn/seq2seq_encoder.png
+[AutogradeApp | INFO] Copying /course/source/./5_rnn/.nbgrader.log -> /course/autograded/spilsbt1/5_rnn/.nbgrader.log
+[AutogradeApp | INFO] Copying /course/source/./5_rnn/seq2seq_decoder.png -> /course/autograded/spilsbt1/5_rnn/seq2seq_decoder.png
+[AutogradeApp | INFO] Copying /course/source/./5_rnn/seq2seq.png -> /course/autograded/spilsbt1/5_rnn/seq2seq.png
+[AutogradeApp | INFO] Sanitizing /course/submitted/spilsbt1/5_rnn/51_rnn.ipynb
+[AutogradeApp | INFO] Converting notebook /course/submitted/spilsbt1/5_rnn/51_rnn.ipynb
+[AutogradeApp | WARNING] Attribute 'checksum' for cell evaluation_settings has changed! (should be: b78417248ae3188c17986f221ad6a970, got: 65e2970339980ef7d85c3754662c4ee8)
+[AutogradeApp | WARNING] Attribute 'checksum' for cell encoder has changed! (should be: 3d62269c52815d8605c24827ad830cb4, got: 91b5cc216c8d1b5b50046123bdc24e62)
+[AutogradeApp | WARNING] Attribute 'checksum' for cell decoder has changed! (should be: bff75d22a414da34b48ceeef1d6e130f, got: 7d0e9b6fc7da4b43dc85f979d8312ddb)
+[AutogradeApp | WARNING] Attribute 'checksum' for cell accuracy has changed! (should be: 592348fc91e4750bf87aad666e650bb7, got: 3722b242b6cd6eca203b4b6a81b5fb63)
+[AutogradeApp | WARNING] Attribute 'checksum' for cell cell-ac510b081dc92db2 has changed! (should be: e0eb1fdc54653b8cf11e56d0bdeb0709, got: 013b7c211c7917c2b2c30a1c3dfdb183)
+[AutogradeApp | INFO] Writing 55015 bytes to /course/autograded/spilsbt1/5_rnn/51_rnn.ipynb
+[AutogradeApp | INFO] Autograding /course/autograded/spilsbt1/5_rnn/51_rnn.ipynb
+[AutogradeApp | INFO] Converting notebook /course/autograded/spilsbt1/5_rnn/51_rnn.ipynb
+[AutogradeApp | INFO] Executing notebook with kernel: python3
+[AutogradeApp | INFO] Writing 58616 bytes to /course/autograded/spilsbt1/5_rnn/51_rnn.ipynb
+[AutogradeApp | INFO] Sanitizing /course/submitted/spilsbt1/5_rnn/52_rnn_batch_training.ipynb
+[AutogradeApp | INFO] Converting notebook /course/submitted/spilsbt1/5_rnn/52_rnn_batch_training.ipynb
+[AutogradeApp | WARNING] Attribute 'checksum' for cell evaluation_settings has changed! (should be: b78417248ae3188c17986f221ad6a970, got: 65e2970339980ef7d85c3754662c4ee8)
+[AutogradeApp | WARNING] Attribute 'checksum' for cell collate has changed! (should be: fa91e6d44dbb9243073c4128c98da66f, got: 36a14a07b2d12d2df7a4380df9d8c3fc)
+[AutogradeApp | WARNING] Attribute 'checksum' for cell encoder has changed! (should be: 92a686bb0ff10547ccdd93770acb79d5, got: e031f3c6e66181111d3bb250698300c4)
+[AutogradeApp | WARNING] Attribute 'checksum' for cell decoder has changed! (should be: 600279f8801a9f6c83eb44cb3fde6ed7, got: 181ae79d65cfaa4aa423ca6c480f4721)
+[AutogradeApp | WARNING] Attribute 'checksum' for cell loss has changed! (should be: 084eaf9a692b7d6f1631eeed6d11eac1, got: f14a51f88350cbe44081234168e18a54)
+[AutogradeApp | WARNING] Attribute 'checksum' for cell accuracy has changed! (should be: 031de801a1a49e79f8162a28419923ac, got: c0fa415ff09350748c8aa6238c159903)
+[AutogradeApp | INFO] Writing 60438 bytes to /course/autograded/spilsbt1/5_rnn/52_rnn_batch_training.ipynb
+[AutogradeApp | INFO] Autograding /course/autograded/spilsbt1/5_rnn/52_rnn_batch_training.ipynb
+[AutogradeApp | INFO] Converting notebook /course/autograded/spilsbt1/5_rnn/52_rnn_batch_training.ipynb
+[AutogradeApp | INFO] Executing notebook with kernel: python3
+[AutogradeApp | INFO] Writing 65980 bytes to /course/autograded/spilsbt1/5_rnn/52_rnn_batch_training.ipynb
+[AutogradeApp | INFO] Setting destination file permissions to 664
+[FeedbackApp | WARNING] Config option `groupshared` not recognized by `Feedback`.
+[FeedbackApp | WARNING] Removing existing assignment: /course/feedback/spilsbt1/5_rnn
+[FeedbackApp | INFO] Copying /course/autograded/spilsbt1/5_rnn/data.py -> /course/feedback/spilsbt1/5_rnn/data.py
+[FeedbackApp | INFO] Copying /course/autograded/spilsbt1/5_rnn/seq2seq.png -> /course/feedback/spilsbt1/5_rnn/seq2seq.png
+[FeedbackApp | INFO] Copying /course/autograded/spilsbt1/5_rnn/seq2seq_decoder.png -> /course/feedback/spilsbt1/5_rnn/seq2seq_decoder.png
+[FeedbackApp | INFO] Copying /course/autograded/spilsbt1/5_rnn/seq2seq_encoder.png -> /course/feedback/spilsbt1/5_rnn/seq2seq_encoder.png
+[FeedbackApp | INFO] Copying /course/autograded/spilsbt1/5_rnn/5_decoder_batch.pth -> /course/feedback/spilsbt1/5_rnn/5_decoder_batch.pth
+[FeedbackApp | INFO] Copying /course/autograded/spilsbt1/5_rnn/5_encoder.pth -> /course/feedback/spilsbt1/5_rnn/5_encoder.pth
+[FeedbackApp | INFO] Copying /course/autograded/spilsbt1/5_rnn/5_encoder_batch.pth -> /course/feedback/spilsbt1/5_rnn/5_encoder_batch.pth
+[FeedbackApp | INFO] Copying /course/autograded/spilsbt1/5_rnn/5_decoder.pth -> /course/feedback/spilsbt1/5_rnn/5_decoder.pth
+[FeedbackApp | INFO] Copying /course/autograded/spilsbt1/5_rnn/timestamp.txt -> /course/feedback/spilsbt1/5_rnn/timestamp.txt
+[FeedbackApp | INFO] Copying /course/autograded/spilsbt1/5_rnn/.nbgrader.log -> /course/feedback/spilsbt1/5_rnn/.nbgrader.log
+[FeedbackApp | INFO] Converting notebook /course/autograded/spilsbt1/5_rnn/51_rnn.ipynb
+[FeedbackApp | INFO] Writing 399380 bytes to /course/feedback/spilsbt1/5_rnn/51_rnn.html
+[FeedbackApp | INFO] Converting notebook /course/autograded/spilsbt1/5_rnn/52_rnn_batch_training.ipynb
+[FeedbackApp | INFO] Writing 440690 bytes to /course/feedback/spilsbt1/5_rnn/52_rnn_batch_training.html
+[FeedbackApp | INFO] Setting destination file permissions to 644
+[ReleaseApp | WARNING] Config option `multiuser` not recognized by `ExchangeRelease`.
+[ReleaseApp | WARNING] Config option `groupshared` not recognized by `ExchangeRelease`.
+[ReleaseApp | INFO] Overwriting files: deeplearn2019 5_rnn
+[ReleaseApp | INFO] Source: /course/release/./5_rnn
+[ReleaseApp | INFO] Destination: /srv/nbgrader/exchange/deeplearn2019/outbound/5_rnn
+[ReleaseApp | INFO] Released as: deeplearn2019 5_rnn
